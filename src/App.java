@@ -11,12 +11,14 @@ public class App {
         double Luku1 = 10;
         double Luku2 = 5;
         double tulo = Luku1 * Luku2;
+        double summa = Luku1 + Luku2;
 
         System.out.println("Luku1-muuttujan arvo on " + Luku1);
         System.out.println("Luku2-muuttujan arvo on " + Luku2);
         System.out.println(" ");
         System.out.println(Luku1 + " * " + Luku2 + " = " + tulo);
         System.out.println(" ");
+        System.out.println(Luku1 + " + " + Luku2 + " = " + summa);
 
         
 
