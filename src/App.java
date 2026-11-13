@@ -8,8 +8,8 @@ public class App {
         System.out.println("Ohjelman tekijä: " + tekija);
         System.out.println(" ");
 
-        double Luku1 = 5;
-        double Luku2 = 2;
+        double Luku1 = 10;
+        double Luku2 = 5;
         double tulo = Luku1 * Luku2;
 
         System.out.println("Luku1-muuttujan arvo on " + Luku1);
